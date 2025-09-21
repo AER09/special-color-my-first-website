@@ -30,6 +30,6 @@ root
 ##  How to Use / Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
+   git clone (https://github.com/AER09/special-color-my-first-website.git)
 2.Open index.html in your browser.
 3.(Optional) Serve with a local server for testing.
