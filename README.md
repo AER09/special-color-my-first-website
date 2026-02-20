@@ -1,4 +1,4 @@
-#  Colorful – [agarwala.me](https://agarwala.me)
+#  Colorful – https://aer09.github.io/special-color-my-first-website/
 
 > *“A colourful life is a life where you are free to do what you want yet still bound by morals and ethics.”*
 -------------------------------------------------------------------------
@@ -14,7 +14,7 @@ The project focuses on minimal design + meaningful text to create an expressive 
 - Simple and minimal layout  
 -------------------------------------------------------------------------
 ##  Live Demo
-🔗 [Visit agarwala.me](https://agarwala.me)
+🔗 https://aer09.github.io/special-color-my-first-website
 -------------------------------------------------------------------------
 ## 🛠 Tech Stack
 - **HTML5**  and **tailwind**
